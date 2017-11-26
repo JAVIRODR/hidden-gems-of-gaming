@@ -13,5 +13,5 @@ A list of the hidden gems of the gaming world, following the awesome list format
 - [Brave Story: New Traveler](https://en.wikipedia.org/wiki/Brave_Story:_New_Traveler)- An rpg that does nothing new but is a fun time all around.
 
 ## XBOX
--[Conker: Live & Reloaded](https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded)- An overlooked port due to the increased censoring, otherwise as good if not better than the original. Recommended if you can't get into the N64 graphics.
+- [Conker: Live & Reloaded](https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded)- An overlooked port due to the increased censoring, otherwise as good if not better than the original. Recommended if you can't get into the N64 graphics.
 ## Playstation 2 (PS2)
