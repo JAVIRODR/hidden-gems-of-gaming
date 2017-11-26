@@ -47,7 +47,7 @@ A list of the hidden gems of the gaming world, following the awesome list format
 - [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
 
 
-## Offsite Contributers
+# Offsite Contributers
 Thanking the people who recommended games to be on this list but didn't create a GitHub Account.
 ## Reddit
 - Akumu_San
