@@ -3,11 +3,19 @@ A list of the hidden gems of the gaming world, following the awesome list format
 
 ## Contents
 - [Super Nintendo (SNES)](#super-nintendo-snes)
+- [Nintendo Switch](#nintendo-switch)
 - [Playstation Portable (PSP)](#playstation-portable-psp)
+- [Playstation 4 (PS4)](#playstation-4-ps4)
 - [XBOX](#xbox)
+- [XBOX ONE (XBONE)](#xbox-one)
+- [Game Boy Advance](#game-boy-advance)
+- [PC](#pc)
+
+
 
 ## Super Nintendo (SNES)
 - [Mr.Nutz](https://en.wikipedia.org/wiki/Mr._Nutz)- A simple but fun 2D platformer.
+- [Terranigma](https://en.wikipedia.org/wiki/Terranigma)
 
 ## Playstation Portable (PSP)
 - [Brave Story: New Traveler](https://en.wikipedia.org/wiki/Brave_Story:_New_Traveler)- An rpg that does nothing new but is a fun time all around.
@@ -15,3 +23,25 @@ A list of the hidden gems of the gaming world, following the awesome list format
 ## XBOX
 - [Conker: Live & Reloaded](https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded)- An overlooked port due to the increased censoring, otherwise as good if not better than the original. Recommended if you can't get into the N64 graphics.
 ## Playstation 2 (PS2)
+
+## Game Boy Advance (GBA)
+- [Mother 3](https://en.wikipedia.org/wiki/Mother_3)- has a fan translation available otherwise is japanese only.
+- [Megaman Battle Network](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_(video_game))
+- [Megaman Battle Network 2](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_2)
+- [Megaman Battle Network 3](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_3)
+- [Megaman Battle Network 4](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_4)
+- [Megaman Battle Network 5](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_5)
+- [Megaman Battle Network 6](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_6)
+
+## PC
+- [The Claw Recluse](http://kapitanpazur.piasta.pl/en/)
+- [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
+
+## Nintendo Switch
+- [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
+
+## XBOX ONE (XBONE)
+- [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
+
+## Playstation 4 (PS4)
+- [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
