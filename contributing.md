@@ -36,7 +36,7 @@ To create your own list, check out the [instructions](create-list.md).
 
 ## Adding something to an awesome list
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
+If you have something awesome to contribute to an awesome list, this is how you do it. I also recommend looking at the raw of the readme if you have trouble formatting properly.
 
 You'll need a [GitHub account](https://github.com/join)!
 
