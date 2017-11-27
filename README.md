@@ -3,6 +3,7 @@ A list of the hidden gems of the gaming world, following the awesome list format
 
 ## Contents
 - [Super Nintendo (SNES)](#super-nintendo-snes)
+- [Genesis/Megadrive](#genesis/megadrive)
 - [Nintendo Switch](#nintendo-switch)
 - [Playstation Portable (PSP)](#playstation-portable-psp)
 - [Playstation 4 (PS4)](#playstation-4-ps4)
@@ -12,7 +13,8 @@ A list of the hidden gems of the gaming world, following the awesome list format
 - [PC](#pc)
 
 
-
+## Genesis/Mega Drive
+- [Contra: Hard Corps](https://en.wikipedia.org/wiki/Contra:_Hard_Corps)
 ## Super Nintendo (SNES)
 - [Mr.Nutz](https://en.wikipedia.org/wiki/Mr._Nutz)- A simple but fun 2D platformer.
 - [Terranigma](https://en.wikipedia.org/wiki/Terranigma)
@@ -43,8 +45,12 @@ A list of the hidden gems of the gaming world, following the awesome list format
 ## XBOX ONE (XBONE)
 - [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
 
+
 ## Playstation 4 (PS4)
 - [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
+
+## Mobile (IOS, Android)
+-[Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING&hl=en)
 
 
 # Offsite Contributers
@@ -54,3 +60,5 @@ Thanking the people who recommended games to be on this list but didn't create a
 - Method__Man
 - StandardOfUr
 - FMFGSX
+- kudosbudo
+- Deadeyejoe
