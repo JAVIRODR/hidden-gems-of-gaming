@@ -45,6 +45,7 @@ A list of the hidden gems of the gaming world, following the awesome list format
 - [The Claw Recluse](http://kapitanpazur.piasta.pl/en/)
 - [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
 - [Brutal Legend](https://en.wikipedia.org/wiki/Br%C3%BCtal_Legend)
+- [Rampage World Tour)(https://en.wikipedia.org/wiki/Rampage_World_Tour)
 
 ## Nintendo Switch
 - [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
@@ -74,3 +75,4 @@ Thanking the people who recommended games to be on this list but didn't create a
 - Deadeyejoe
 ## FunnyJunk
 - uncledolan
+- succubusaxe  
