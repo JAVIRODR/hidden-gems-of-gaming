@@ -6,8 +6,10 @@ A list of the hidden gems of the gaming world, following the awesome list format
 - [Genesis/Megadrive](#genesis/megadrive)
 - [Nintendo Switch](#nintendo-switch)
 - [Playstation Portable (PSP)](#playstation-portable-psp)
+- [Playstation 3 (PS3)](#playstation-3-ps3)
 - [Playstation 4 (PS4)](#playstation-4-ps4)
 - [XBOX](#xbox)
+- [XBOX 360 (360)](#xbox-360-360)
 - [XBOX ONE (XBONE)](#xbox-one)
 - [Game Boy Advance](#game-boy-advance)
 - [PC](#pc)
@@ -26,6 +28,10 @@ A list of the hidden gems of the gaming world, following the awesome list format
 - [Conker: Live & Reloaded](https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded)- An overlooked port due to the increased censoring, otherwise as good if not better than the original. Recommended if you can't get into the N64 graphics.
 ## Playstation 2 (PS2)
 
+## Playstation 3 (PS3)
+- [Brutal Legend](https://en.wikipedia.org/wiki/Br%C3%BCtal_Legend)
+
+
 ## Game Boy Advance (GBA)
 - [Mother 3](https://en.wikipedia.org/wiki/Mother_3)- has a fan translation available found [here](http://mother3.fobby.net/) otherwise is japanese only.
 - [Megaman Battle Network](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_(video_game))
@@ -38,9 +44,13 @@ A list of the hidden gems of the gaming world, following the awesome list format
 ## PC
 - [The Claw Recluse](http://kapitanpazur.piasta.pl/en/)
 - [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
+- [Brutal Legend](https://en.wikipedia.org/wiki/Br%C3%BCtal_Legend)
 
 ## Nintendo Switch
 - [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
+
+## XBOX 360 (360)
+- [Brutal Legend](https://en.wikipedia.org/wiki/Br%C3%BCtal_Legend)
 
 ## XBOX ONE (XBONE)
 - [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
@@ -62,3 +72,5 @@ Thanking the people who recommended games to be on this list but didn't create a
 - FMFGSX
 - kudosbudo
 - Deadeyejoe
+## FunnyJunk
+- uncledolan
