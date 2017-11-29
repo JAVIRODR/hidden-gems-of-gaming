@@ -10,7 +10,7 @@ A list of the hidden gems of the gaming world, following the awesome list format
 - [Playstation 4 (PS4)](#playstation-4-ps4)
 - [XBOX](#xbox)
 - [XBOX 360 (360)](#xbox-360-360)
-- [XBOX ONE (XBONE)](#xbox-one)
+- [XBOX ONE (XBONE)](#xbox-one-xbone)
 - [Game Boy Advance](#game-boy-advance)
 - [PC](#pc)
 
