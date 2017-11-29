@@ -73,6 +73,4 @@ Thanking the people who recommended games to be on this list but didn't create a
 - FMFGSX
 - kudosbudo
 - Deadeyejoe
-## FunnyJunk
-- uncledolan
-- succubusaxe  
+
