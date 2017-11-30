@@ -61,7 +61,7 @@ A list of the hidden gems of the gaming world, following the awesome list format
 - [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/)
 
 ## Mobile (IOS, Android)
--[Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING&hl=en)
+- [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING&hl=en)
 
 
 # Offsite Contributers
