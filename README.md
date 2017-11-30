@@ -33,7 +33,7 @@ A list of the hidden gems of the gaming world, following the awesome list format
 
 
 ## Game Boy Advance (GBA)
-- [Mother 3](https://en.wikipedia.org/wiki/Mother_3)- has a fan translation available found [here](http://mother3.fobby.net/) otherwise is japanese only.
+- [Mother 3](https://en.wikipedia.org/wiki/Mother_3)- has a fan translation available, found [here](http://mother3.fobby.net/) otherwise is japanese only.
 - [Megaman Battle Network](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_(video_game))
 - [Megaman Battle Network 2](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_2)
 - [Megaman Battle Network 3](https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_3)
