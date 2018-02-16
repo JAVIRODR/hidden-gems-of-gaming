@@ -13,6 +13,8 @@ A list of the hidden gems of the gaming world, following the awesome list format
 - [XBOX ONE (XBONE)](#xbox-one-xbone)
 - [Game Boy Advance](#game-boy-advance)
 - [PC](#pc)
+- [Nintendo DS (DS)](#nintendo-ds-ds)
+- [Nintendo 3DS (3DS)](#nintendo-3ds-3ds)
 
 
 ## Genesis/Mega Drive
@@ -23,6 +25,11 @@ A list of the hidden gems of the gaming world, following the awesome list format
 
 ## Playstation Portable (PSP)
 - [Brave Story: New Traveler](https://en.wikipedia.org/wiki/Brave_Story:_New_Traveler)- An rpg that does nothing new but is a fun time all around.
+## Nintendo DS (DS)
+- Radiant Historia
+
+## Nintendo 3DS (3DS)
+- Radiant Historia
 
 ## XBOX
 - [Conker: Live & Reloaded](https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded)- An overlooked port due to the increased censoring, otherwise as good if not better than the original. Recommended if you can't get into the N64 graphics.
